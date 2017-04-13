@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <main>
+    <h1>Hello {{ username }}</h1>
+    {% block content %}{% endblock %}
+  </main>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "name": "huncwot-examples",
+  "version": "1.0.0",
+  "description": "Huncwot Examples",
+  "main": "index.js",
+  "repository": "https://github.com/zaiste/huncwot-examples",
+  "author": "Zaiste",
+  "license": "Apache 2",
+  "dependencies": {
+    "huncwot": "^0.1.1",
+    "nunjucks": "^3.0.0"
+  }
+}
